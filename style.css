@@ -926,6 +926,21 @@ span{
         width: 100%;
     }
 
+    .services,
+    .portfolio,
+    .testimonial-container,
+    .contact{
+        padding: 6rem;    
+    }
+
+    .footer {
+        flex-direction: column-reverse;
+    }
+
+    .footer-iconTop{
+        padding: 2rem;
+    }
+
 }
 
 @media (max-width: 365px) {
