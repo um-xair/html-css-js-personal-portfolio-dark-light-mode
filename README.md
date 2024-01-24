@@ -12,13 +12,7 @@ Creating a completely responsive personal portfolio website with dark/light mode
 
 ## Support Me! 🍵🫶  
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/html.devlyss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/html.devlyss" /></a></p>  
-
-<br>
-
-## Home Page Explanation  🏠
-The design is modern and vibrant, featuring a green and black colour scheme. The left-side navigation menu offers links such as "Home," "About," "Services," "Portfolio," and "Contact," with a settings icon at the top right. The main content introduces "html | devlyss," a dedicated front-end developer skilled in HTML, CSS, and JavaScript. 
-
-Icons for Facebook, Twitter, Instagram, and LinkedIn provide social media connections, and a "Download CV" button invites visitors to access the developer's resume. On the right, a 3D-rendered character labelled "Web Developer" adds a visually striking element, creating a strong first impression of the developer's skills and personality.  
+<p><a href="https://www.tiktok.com/@html.devlyss"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftiktok-logo&psig=AOvVaw1VTX69oDeSosdu1xPTMbC8&ust=1706190665830000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCNiy8JmW9oMDFQAAAAAdAAAAABAE" height="50" width="50" alt="https://www.tiktok.com/@html.devlyss" /></a></p>  
   
 <br>
 
