@@ -13,7 +13,7 @@ Creating a completely responsive personal portfolio website with dark/light mode
 ## Support Me! 🍵🫶  
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/html.devlyss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/html.devlyss" /></a></p>
 <a href="https://www.tiktok.com/@html.devlyss" target="_blank">
-<img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white alt=tiktok style="margin-bottom: 5px; height="50" width="210"" />
 </a> 
   
 <br>
