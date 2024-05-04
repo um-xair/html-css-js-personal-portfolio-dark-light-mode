@@ -30,6 +30,10 @@ html{
     overflow-x: hidden;
 }
 
+html::-webkit-scrollbar{
+    display: none;
+}
+
 body{
     background: var(--bg-color);
     color: var(--text-color);
