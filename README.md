@@ -9,7 +9,7 @@
 
 This Responsive Personal Portfolio Website, crafted by umxair, seamlessly switches between Dark and Light modes, making it both visually appealing and adaptable. With HTML, CSS, and JavaScript, it effortlessly caters to different preferences. Designed to be user-friendly, it offers sections for Homepage, About, Services, Portfolio Projects, Testimonials, and a Contact Form, ensuring a comprehensive representation of your portfolio. 
 
-Inspiration from the [Codehal YouTube channel](https://www.youtube.com/channel/UCk02A0DNXlhjK7lJLMYvpbg) 🫶
+Inspiration from the [Codehal YouTube channel](https://www.youtube.com/@codehal) 🫶
 
 <br />
 
