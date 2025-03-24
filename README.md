@@ -1,4 +1,4 @@
-# 🧑‍💻 Responsive Personal Portfolio | Dark/Light Mode by UM-XAIR
+# 🧬 Responsive Portfolio | Dark/Light Mode 
 
 <div align="center">
   <img src="https://github.com/um-xair/html-css-js-personal-portfolio-1/blob/main/images/mainlight.jpg" />
@@ -11,14 +11,14 @@
 ## Live Demo  
 Check it out here: [Responsive Portfolio](#)   
 
-## ✨ Features  
+## Features  
 - 🌗 **Dark/Light Mode** – Toggle between themes with a click.  
 - 📱 **Responsive Design** – Seamless experience across devices.  
 - 🖼️ **Animated Sections** – Smooth scroll animations.  
 - 📌 **Sticky Navbar** – Navigation stays visible while scrolling.  
 - 📸 **Image Carousel** – Interactive testimonials with SwiperJS.  
 
-## 🛠️ Technologies Used  
+## 🛠Technologies Used  
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & Animations  
