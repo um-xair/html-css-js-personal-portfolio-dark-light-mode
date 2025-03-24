@@ -5,7 +5,7 @@
   <img src="https://github.com/um-xair/html-css-js-personal-portfolio-1/blob/main/images/maindark.jpg" />
 </div>
 
-## Tailwind CSS Card Component  
+## Portfolio Review  
 – A sleek and responsive personal portfolio website featuring **Dark/Light Mode** for a modern and customizable user experience.
 
 ## Live Demo  
