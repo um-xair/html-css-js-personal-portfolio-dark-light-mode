@@ -18,7 +18,7 @@ Check it out here: [Responsive Portfolio](#)
 - 📌 **Sticky Navbar** – Navigation stays visible while scrolling.  
 - 📸 **Image Carousel** – Interactive testimonials with SwiperJS.  
 
-## 🛠Technologies Used  
+## Technologies Used  
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & Animations  
